@@ -24,20 +24,13 @@ Multiply and add numbers (Python code)
 Convert minutes to hours (Python code)
 Objectives
 Author name
+
 📂 How to Use
 
 Clone the repository:
-git clone <repo-link>
-
-
-
+`git clone <repo-link>`
 Open the notebook in Jupyter or JupyterLite.
 Run the code cells to see the output.
-🔗 Submission Guidelines
-
-Ensure the notebook is publicly viewable.
-Include at least 8 Markdown cells and 2 code cells.
-Upload screenshots as per course requirements.
 
 👤 Author
 Manthan Virendrakumar Jani
